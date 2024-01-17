@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "sourceMap": true
+    },
+    "files": [
+        "026_namespaces.ts"
+    ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"018_immediately_invoked_functions.js","sourceRoot":"","sources":["018_immediately_invoked_functions.ts"],"names":[],"mappings":"AAAA,IAAI,KAAK,GAAc,CAAC,QAAQ,EAAE,SAAS,EAAE,UAAU,CAAC,CAAC;AACzD,IAAI,OAAO,GAAY,CAAC,CAAC;AAEzB,CAAC;IACG,KAAK,IAAI,MAAI,IAAI,KAAK,EAAE;QACpB,OAAO,EAAE,CAAC;KACb;AACL,CAAC,CAAC,EAAE,CAAC;AAEL,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,CAAC"}
