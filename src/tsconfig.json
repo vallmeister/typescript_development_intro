@@ -1,8 +1,10 @@
 {
     "compilerOptions": {
+        "module": "amd",
+        "target": "es6",
         "sourceMap": true
     },
     "files": [
-        "026_namespaces.ts"
+        "029_promises.ts"
     ]
 }
